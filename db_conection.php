@@ -7,7 +7,7 @@ class Connection {
 
     private $driver = 'mysql';
     private $host = 'localhost';
-    private $dbname= 'quiz_db';
+    private $dbname= 'bcpelftn_quiz';
     private $charset= 'utf8';
     private $username = 'bcpelftn';
     private $password = "Js71ZIgvf9X4";
