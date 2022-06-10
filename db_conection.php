@@ -9,8 +9,8 @@ class Connection {
     private $host = 'localhost';
     private $dbname= 'quiz_db';
     private $charset= 'utf8';
-    private $username = 'root';
-    private $password = "";
+    private $username = 'bcpelftn';
+    private $password = "Js71ZIgvf9X4";
             
     
     protected function connect()
