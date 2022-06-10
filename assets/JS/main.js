@@ -155,6 +155,7 @@ $(document).ready(function() {
 
     function endQuiz() {
 
+        $('#quiz_content').hide()
         $('#quiz_result').show()
 
         let correct = 0

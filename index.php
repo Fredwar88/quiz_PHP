@@ -127,7 +127,7 @@ $fech = $query->getFecha();
                 </div>
             </div>
 
-            <div class="card" id="quiz_result" style="display: none;">
+            <div class="card m-5" id="quiz_result" style="display: none;">
                 <div class="card-body text-center" >
                     <h3>El Resultado de tu quiz es..</h3>
                     <h5 id="result"></h5>
